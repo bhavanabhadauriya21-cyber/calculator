@@ -13,7 +13,8 @@ This is a simple **Calculator Web App** built using HTML, CSS, and JavaScript.
 - JavaScript
 
 ## 📸 Preview
-(Add a screenshot here later)
+![Calculator Screenshot](calculator.png)
+
 
 ---
 
